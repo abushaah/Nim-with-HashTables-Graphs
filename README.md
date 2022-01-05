@@ -1,5 +1,6 @@
 # Nim-with-HashTables-Graphs
 Game of Nim that always wins
+- Uses Graphs to connect every possible next move that can occur after a move is made, and chooses the optimal one
 
 ## To compile:
 1. make
